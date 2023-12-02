@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "eWaveWebService", "eWaveWebService\eWaveWebService.fsproj", "{221FBA1D-F077-4A2C-9834-60358FA8D102}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{221FBA1D-F077-4A2C-9834-60358FA8D102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221FBA1D-F077-4A2C-9834-60358FA8D102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221FBA1D-F077-4A2C-9834-60358FA8D102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221FBA1D-F077-4A2C-9834-60358FA8D102}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96575751-1193-468F-90D1-5C85DE83DCCB}
+	EndGlobalSection
+EndGlobal
